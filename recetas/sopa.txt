@@ -4,3 +4,4 @@ Ingredientes para una sopa:
 3 Papa
 4 Zahanoria
 5 Cebollas
+6 Pimiento
