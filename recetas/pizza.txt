@@ -2,4 +2,5 @@ Ingredientes para la pizza:
 1 Masa
 2 Salsa
 3 Queso
-4 Piña
+4 Peperoni
+5 Pimiento
